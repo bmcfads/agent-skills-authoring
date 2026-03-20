@@ -138,7 +138,7 @@ mv skills/do-something-cool-v2 releases/do-something-cool
 When the new major version is ready to move out of the experimental stage:
 
 - Move the previous version of the skill to the catalog repository deprecated directory
-- Move the new version of the skill from catlog respository experimental directory to the catalog respository skills directory
+- Move the new version of the skill from catalog respository experimental directory to the catalog respository skills directory
 
 ## Directory semantics
 
