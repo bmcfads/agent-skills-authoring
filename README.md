@@ -1,9 +1,9 @@
 # BMCFADS Agent Skills Authoring
 
 > [!NOTE]
-> If you are looking for complete, installable BMCFADS Agent Skills, see [agent-skills](https://github.com/bmcfads/agent-skills).
+> If you are looking for complete, installable BMCFADS Agent Skills, see [agent-skills](https://github.com/bmcfads/agent-skills) catalog repository.
 
-This repo is for authoring and experimenting with Agent Skills. It is used by only BMCFADS (for now) to design, iterate on, and prepare skills for publication to the public. Once a skill is ready for the public, it is pushed to the [agent-skills](https://github.com/bmcfads/agent-skills) catalog repository.
+This repo is for authoring and experimenting with Agent Skills. It is used by only BMCFADS (for now) to design, iterate on, and prepare skills for publication to the public. Once a skill is ready for the public, it is pushed to the catalog repository.
 
 ## Contributing
 If you are contributing to this repository, start with:
